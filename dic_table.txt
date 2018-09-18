@@ -1,0 +1,74 @@
+Cst_Cnt: Auto-numbered Cast Count - all casts consecutively numbered. 1 is first station done.
+Btl_Cnt: Auto-numbered Bottle count- all bottles ever sampled, consecutively numbered.
+Sta_ID: CalCOFI Line and Station
+Depth_ID: [Century]-[YY][MM][ShipCode]-[CastType][Julian Day]-[CastTime]-[Line][Sta][Depth][Bottle]-[Rec_Ind]
+Depthm: Depth in meters
+T_degC: Temperature of Water
+Salnty: Salinity of water
+O2ml_L: Milliliters of dissolved oxygen per Liter seawater
+STheta: Potential Density of Water
+02Sat: Oxygen Saturation
+Oxy_umol/kg: Oxygen in micro moles per kilogram of seawater
+BtlNum: Bottle Number
+Reclnd: Record Indicator
+T_prec: Temperature Units of Precision
+T_qual: Temperature Quality Code
+S_prec: Salinity Units of Precision
+S_qual: Salinity Quality Code
+P_qual: Pressure Quality Code
+O_qual: Oxygen Quality Code
+SThatq: Sigma Theta Quality Code
+O2Satq: Oxygen Saturation Quality Code
+ChlorA: Acetone extracted chlorophyll-a measured fluorometrically
+Chlqua: Chlorophyll-a Quality Code
+Phaeop: Phaeophytin concentration measured fluorometrically
+Phaqua: Phaeophytin Quality Code
+PO4然: Phosphate concentration
+PO4q: Phosphate Quality Code
+SiO3然: Silicate concentration
+SiO3qu: Silicate Quality Code
+NO2然: Nitrite concentration
+NO2q: Nitrite Quality Code
+NO3然: Nitrate concentration
+NO3q: Nitrate Quality Code
+NH3然: Ammonium concentration
+NH3q: Ammonium Quality Code
+C14As1: 14C Assimilation of replicate 1
+C14A1p: 14C Assimilation of replicate 1 precision
+C14A1q: 14C As1 Quality Code
+C14As2: 14C Assimilation of replicate 2
+C14A2p: 14C Assimilation of replicate 2 precision
+C14A2q: 14C As2 Quality Code
+DarkAs: 14C Assimilation Dark Bottle
+DarkAp: 14C Assimilation Dark Bottle precision
+DarkAq: 14C Assimilation Dark Bottle Quality Code
+MeanAs: Mean 14C Assimilation of Bottle 1 and 2
+MeanAp: Mean 14C Assimilation of Bottle 1 and 2 precision
+MeanAq: Mean 14C Assimilation Quality Code
+IncTim: Incubation time
+LightP: Light intensities expressed as a percentage
+R_Depth: Reported Depth in Meters
+R_TEMP: Reported Temperature
+R_POTEMP: Reported Potential Temperature
+R_SALINITY: Reported Salinity
+R_SIGMA: Reported Potential Density of water
+R_SVA: Reported Specific Volume Anomaly
+R_DYNHT: Reported Dynamic Height
+R_02: Reported milliliters of oxygen per liter of seawater
+R_O2Sat: Reported Oxygen Saturation
+R_SIO3: Reported Silicate Concentration
+R_PO4: Reported Phosphate Concentration
+R_NO3: Reported Nitrate Concentration
+R_NO2: Reported Nitrite Concentration
+R_NH4: Reported Ammonium Concentration
+R_CHLA: Reported Chlorophyll-a
+R_PHAEO: Reported Phaeophytin
+R_PRES: Pressure in decibars
+R_SAMP: Sample number
+DIC1: Replicate 1 - Dissolved Inorganic Carbon in micro moles per kilogram of seawater
+DIC2: Replicate 2 - Dissolved Inorganic Carbon in micro moles per kilogram of seawater
+TA1: Replicate 1 - Total Alkalinity in micro moles per kilogram of seawater
+TA2: Replicate 2 - Total Alkalinity in micro moles per kilogram of seawater
+PH2
+PH1
+DIC Quality Comment: Quality Comments associated with DIC sampling, drawing and analysis
